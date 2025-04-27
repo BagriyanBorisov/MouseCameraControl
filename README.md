@@ -8,7 +8,7 @@ python main.py
 ![hand landmarks](hand_landmarks.png?raw=true)
 
 
-# Follows Index Tip default
-# Scroll - Pinky finger down
-# Click - Peace sign 
-# Drag - Pinch Index tip and Thumb tip
+## Mouse - Follows Index Tip default
+## Scroll - Pinky finger down
+## Click - Peace sign 
+## Drag - Pinch Index tip and Thumb tip
